@@ -17,4 +17,4 @@ Design responsivo para uma boa visualização em diferentes dispositivos.
 
 ## Como Usar
 Clone este repositório:
-git clone: https://github.com/Felipe020507/perfil-link-social-frontend-mentor.git
+git clone: https://github.com/Fcasale-dev/perfil-link-social-frontend-mentor.git
